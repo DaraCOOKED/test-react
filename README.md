@@ -72,6 +72,6 @@ Cherry Cheek is an e-commerce website.
 
 | Name | Contribution |
 |---|---|
-| Your Name | Customer pages and shopping features |
-| Member Name | Admin dashboard |
-| Member Name | Design and testing |
+| SOMNANG Dara | Admin side |
+| Dalin | Register, Add to bag, and product detail |
+| Member Name | User side |
