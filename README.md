@@ -10,7 +10,7 @@ Cherry Cheek is an e-commerce website.
 - CSS
 
 ## Project structure
-
+``` text
 cherry-cheek/
 ├── public/
 │   ├── images/
@@ -35,7 +35,7 @@ cherry-cheek/
 ├── compose.yaml
 ├── package.json
 └── vite.config.js
-
+```
 ## Features
 
 Cherry Cheek includes 15 feature groups: 10 for customers and 5 for admins.
