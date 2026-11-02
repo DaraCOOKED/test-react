@@ -34,22 +34,38 @@ Cherry Cheek is an e-commerce website.
 4. View and search orders
 5. View and search customers
 
+
 ## Installation
-1. install Node.js and npm.
-2. Clone the repository and open the project folder.
-3.Install it as this command
 
-npm create vite@latest my-react-app
+1. Install Node.js and npm.
 
-4. open the project
+2. Create a React project using Vite:
 
-cd my-react-app
+   ```bash
+   npm create vite@latest my-react-app
+   ```
 
-5.Start the development:
+3. Open the project folder:
 
-npm run dev 
+   ```bash
+   cd my-react-app
+   ```
 
-6. Open the local URL shown in the terminal (usually http://localhost:5173).
+4. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+5. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+6. Open the local URL shown in the terminal:
+
+   http://localhost:5173
 
 ## Team Members
 Information about our team.
