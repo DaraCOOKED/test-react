@@ -3,14 +3,42 @@
 ## About the Project
 Cherry Cheek is an e-commerce website.
 
+
 ## Technologies Used
 - React
 - JavaScript
 - CSS
 
+## Project structure
+
+cherry-cheek/
+├── public/
+│   ├── images/
+│   │   ├── categories/       # Category images
+│   │   └── products/         # Product images
+│   └── student-data/         # Sample JSON data
+├── src/
+│   ├── assets/               # Images used in the app
+│   ├── components/
+│   │   └── admin/            # Reusable admin components
+│   ├── context/              # Authentication and cart state
+│   ├── data/                 # Product data module
+│   ├── layouts/              # Customer and admin layouts
+│   ├── pages/
+│   │   ├── admin/            # Dashboard, products, categories, orders, customers
+│   │   └── user/             # Shop, product, cart, checkout, account, and other pages
+│   ├── service/              # Browser storage helpers
+│   ├── styles/               # Global styles
+│   ├── App.jsx               # Routes
+│   └── main.jsx              # App entry point
+├── Dockerfile
+├── compose.yaml
+├── package.json
+└── vite.config.js
+
 ## Features
 
-
+Cherry Cheek includes 15 feature groups: 10 for customers and 5 for admins.
 
 ### User Features
 
@@ -74,4 +102,4 @@ Cherry Cheek is an e-commerce website.
 |---|---|
 | SOMNANG Dara | Admin side |
 | Dalin | Register, Add to bag, and product detail |
-| Member Name | User side |
+| KONG Bunyim | User side |
