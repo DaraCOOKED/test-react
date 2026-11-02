@@ -68,4 +68,10 @@ Cherry Cheek is an e-commerce website.
    http://localhost:5173
 
 ## Team Members
-Information about our team.
+
+
+| Name | Contribution |
+|---|---|
+| Your Name | Customer pages and shopping features |
+| Member Name | Admin dashboard |
+| Member Name | Design and testing |
