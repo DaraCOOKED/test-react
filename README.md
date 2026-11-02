@@ -35,7 +35,21 @@ Cherry Cheek is an e-commerce website.
 5. View and search customers
 
 ## Installation
-Steps to run the project.
+1. install Node.js and npm.
+2. Clone the repository and open the project folder.
+3.Install it as this command
+
+npm create vite@latest my-react-app
+
+4. open the project
+
+cd my-react-app
+
+5.Start the development:
+
+npm run dev 
+
+6. Open the local URL shown in the terminal (usually http://localhost:5173).
 
 ## Team Members
 Information about our team.
